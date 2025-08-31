@@ -9,7 +9,7 @@ Windows11PC
 | Охладител | ASUS Prime LC 360 ARGB White Edition |    0 |
 | Памет | T-Force Delta RGB 32GB (2x16GB) 6000MT/s DDR5 |    0 |
 | SSD | Samsung 990 EVO Plus 2TB |    0 |
-| Видеокарта | Ще си ползвам старата - GTX 1070 |    0 |
+| Видеокарта | Ще си ползвам старата, дано се помести - GTX 1070 |    0 |
 | Захранване | ASUS TUF Gaming 1000W Gold White Edition |    0 |
 | Операционна  | Windows 11 Pro x64 English |    0 |
 | Външен диск  | 2TB |    0 |
