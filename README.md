@@ -3,15 +3,15 @@ Windows11PC
 
 | Артикул      | Описание                                      | Цена | Бележки                                           |
 | ------------ | --------------------------------------------- | ---- | ------------------------------------------------- |
-| Кутия        | ASUS A31 PLUS ARGB GPLAY Edition              | 0    |                                                   |
-| Дънна платка | ASUS PRIME B850-PLUS WIFI                     | 0    | може и без УиФи                                   |
-| Процесор     | AMD Ryzen 7 7700 Tray                         | 0    |                                                   |
-| Охладител    | ASUS Prime LC 360 ARGB White Edition          | 0    |                                                   |
-| Памет        | T-Force Delta RGB 32GB (2x16GB) 6000MT/s DDR5 | 0    |                                                   |
-| SSD          | Samsung 990 EVO Plus 2TB                      | 0    |                                                   |
+| Кутия        | ASUS A31 PLUS ARGB GPLAY Edition              | 200    |                                                   |
+| Дънна платка | ASUS PRIME B850-PLUS WIFI                     | 433    | може и без УиФи                                   |
+| Процесор     | AMD Ryzen 7 7700 Tray                         | 419    |                                                   |
+| Охладител    | ASUS Prime LC 360 ARGB White Edition          | 259    |                                                   |
+| Памет        | T-Force Delta RGB 32GB (2x16GB) 6000MT/s DDR5 | 205    |                                                   |
+| SSD          | Samsung 990 EVO Plus 2TB                      | 272    |                                                   |
 | Видеокарта   |                                               | 0    | Ще си ползвам старата, дано се помести - GTX 1070 |
 | Монитор      | Текущи - 23.8" Acer RG241Y;                   | 0    |                                                   |
-| Захранване   | ASUS TUF Gaming 1000W Gold White Edition      | 0    |                                                   |
+| Захранване   | ASUS TUF Gaming 1000W Gold White Edition      | 379    |                                                   |
 | Операционна  | Windows 11 Pro x64 English                    | 0    |                                                   |
 | Външен диск  | 2TB                                           | 0    |                                                   |
 | USB портовв  |                                               | 0    | Повече :) + USB C; USB 4?                         |
