@@ -13,7 +13,7 @@ Windows11PC
 | SSD           | [Samsung 990 EVO Plus 2TB](https://gplay.bg/samsung-990-evo-plus-2tb)                       | 272     | PCIe 4.0 NVMe M.2 2280                            |
 | Видеокарта    |                                                | 0       | Ще си ползвам старата за сега, GTX 1070 около 27 см дълга, кутията поддържа до ~34 см, така че ще се побере без проблем |
 | Захранване    | [ASUS TUF Gaming 1000W Gold White Edition](https://gplay.bg/asus-tuf-gaming-1000w-gold-white-edition)       | 379     |                                                   |
-| Операционна   | Windows 11 Pro x64 English RETAIL              | 489     |                                                   |
+| Операционна   | [Windows 11 Pro x64 Български RETAIL- (FPP или ESD)](https://plasico.bg/software/operatsionni-sistemi/filter-151019)              | 442     |                                                   |
 | Външен диск   | SLP-HDD-A66-2TB-BL                             | 179     | USB 3.2 Gen 1                                     |
 | DVD/BluRay    | DVD-RW-LG-GP57ES40                             | 69      |                                                   |
 | ⬇ Не е спешно ⬇ | ⬇ Не е спешно ⬇                              | ⬇ Не е спешно ⬇  | ⬇ Не е спешно  ⬇                         |
