@@ -8,7 +8,7 @@ Windows11PC
 | Кутия         | [ASUS A31 PLUS ARGB GPLAY Edition](https://gplay.bg/asus-a31-plus-argb-gplay-edition-2)               | 200     | ATX, съвместима с дъното и има място за 360 мм воден охладител и дълги видеокарти |
 | Дънна платка  | [ASUS PRIME B850-PLUS WIFI](https://gplay.bg/asus-prime-b850-plus-wifi)                      | 433     | може и без УиФи, ВИРТУАЛИЗАЦИЯ!                                   |
 | Процесор      | [AMD Ryzen 7 7700 Tray](https://gplay.bg/amd-ryzen-7-7700-tray)                          | 419     | Поддържа се от сокет AM5 и чипсет B850, ВИРТУАЛИЗАЦИЯ!            |
-| Охладител     | ASUS Prime LC 360 ARGB White Edition           | 259     | Дънната платка има AM5 сокет, а охладителят поддържа AM5 |
+| Охладител     | [ASUS Prime LC 360 ARGB White Edition](https://gplay.bg/asus-prime-lc-360-argb-white-edition)           | 259     | Дънната платка има AM5 сокет, а охладителят поддържа AM5 |
 | Памет         | 2 x T-Force Delta RGB 32GB (2x16GB) 6000MT/s DDR5  | 452     | Дънната платка поддържа DDR5 до 8000+ MT/s (OC) и има EXPO/AEMP профили |
 | SSD           | Samsung 990 EVO Plus 2TB                       | 272     | PCIe 4.0 NVMe M.2 2280                            |
 | Видеокарта    |                                                | 0       | Ще си ползвам старата за сега, GTX 1070 около 27 см дълга, кутията поддържа до ~34 см, така че ще се побере без проблем |
