@@ -10,7 +10,7 @@ Windows11PC
 | Процесор      | [AMD Ryzen 5 9600 Tray](https://gplay.bg/amd-ryzen-5-9600-tray)                          | 415     | Поддържа се от сокет AM5 и чипсет B850, ВИРТУАЛИЗАЦИЯ!            |
 | Охладител     | [ASUS Prime LC 360 ARGB White Edition](https://gplay.bg/kingston-fury-beast-white-rgb-32gb-2x16gb-6000mts-ddr5)           | 644     | Дънната платка има AM5 сокет, а охладителят поддържа AM5 |
 | ~~Въздушен охладител~~ | ~~[Arctic Freezer 36 A-RGB (White)](https://gplay.bg/arctic-freezer-36-a-rgb-white)~~ | ~~89~~ | ~~Въздушен, бял, за AM5~~ |
-| Памет         | 2 x [Kingston FURY Beast White RGB 32GB (2x16GB) 6000MT/s DDR5 ](https://gplay.bg/t-force-delta-rgb-32gb-2x16gb-6000mhz-2)  | 452     | Дънната платка поддържа DDR5 до 8000+ MT/s (OC) и има EXPO/AEMP профили |
+| Памет         | 2 x [Kingston FURY Beast White 32GB (2x16GB) 6000MT/s DDR5](https://gplay.bg/kingston-fury-beast-white-32gb-2x16gb-6000mhz-2)  | 452     | Дънната платка поддържа DDR5 до 8000+ MT/s (OC) и има EXPO/AEMP профили |
 | SSD           | [Samsung 990 EVO Plus 2TB](https://gplay.bg/samsung-990-evo-plus-2tb)                       | 272     | PCIe 4.0 NVMe M.2 2280                            |
 | Видеокарта    |                                                | 0       | Ще си ползвам старата за сега, GTX 1070 около 27 см дълга, кутията поддържа до ~34 см, така че ще се побере без проблем |
 | Захранване    | [ASUS TUF Gaming 1000W Gold White Edition](https://gplay.bg/asus-tuf-gaming-1000w-gold-white-edition)       | 379     |                                                   |
